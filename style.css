@@ -159,7 +159,7 @@ height: 92px;
 
 
 .watch{
-  background-image: url('../images/watch.png'), url('../images/gradient1.png');
+  background-image: url('./images/watch.png'), url('./images/gradient1.png');
   background-blend-mode: overlay;
  
   height: 300px;
